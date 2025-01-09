@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZachDavis1
+- 👋 Hi, I’m Zach
 - 👀 I’m interested in ... getting a coding job
 - 🌱 I’m currently learning ... web developement and ios apps
 - 💞️ I’m looking to collaborate on ... internships and jobs
